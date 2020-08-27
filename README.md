@@ -1,0 +1,2 @@
+# organizationscli
+AWS Organizations Cli
